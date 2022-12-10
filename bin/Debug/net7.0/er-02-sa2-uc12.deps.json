@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "er-02-sa2-uc12/1.0.0": {
+        "runtime": {
+          "er-02-sa2-uc12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "er-02-sa2-uc12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
